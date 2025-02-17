@@ -1,0 +1,46 @@
+h1{font-size: 55px; font-family: Verdana, Geneva, Tahoma, sans-serif;margin: 5%;}
+h2{font-size: 45px;font-family: Verdana, Geneva, Tahoma, sans-serif;padding: 2%; font-weight: bold;}
+h3{font-size: 35px;font-family: Verdana, Geneva, Tahoma, sans-serif;padding: 2%;}
+p{font-size: 30px; padding: 2%; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h4{font-size: 23px;font-family: Verdana, Geneva, Tahoma, sans-serif;padding: 0.5%;}
+
+@font-face{
+    font-family: "calistoga";
+    src: url(https://fonts.google.com/specimen/Calistoga?categoryFilters=Feeling:%2FExpressive%2FVintage);
+}
+header{background-color: #aa4a44; text-size-adjust: 30px;}
+.dropdown-menu{background-color:#373655;width: min-content;}
+.big_logo{width: 58%; margin-top: 5%; margin-bottom: 3%;}
+.quote{font-style: italic;padding-bottom: 3%; size: 80%;color: #373655;}
+.dropdown:hover .dropdown-menu {display: block;}
+
+.container-1{background-color: #aa4a44; font-family: calistoga; height: auto;padding-bottom: 2%;}
+.container-2{background-color: #373655; font-family: calistoga; height: auto;color: #aa4a44;}
+.container-3{background-color: #2a2f23; font-family: calistoga; height:auto; color: #bba14f;image-resolution: 70%;}
+
+.green_button{background-color: #bba14f; color: #2a2f23;font-size: 25px;border: 0;margin: 2%;padding-left: 3%;padding-right: 3%;font-weight: bold;width: 40%;}
+.green_button:hover {background-color:#2a2f23 !important; color: #bba14f!important;border: 1px solid #bba14f!important;}
+.red_button{background-color: #aa4a44; color: #373655;font-size: 25px;border: 0;margin: 2%;padding-left: 3%;padding-right: 3%;font-weight: bold;width: 40%;}
+.red_button:hover {background-color:#373655 !important; color: #aa4a44!important;border: 1px solid #aa4a44!important;}
+.blue_button{background-color: #373655; color: #aa4a44;font-size: 30px;border: 0;margin: 2%;font-weight: bold;width: 160px;}
+.blue_button:hover {background-color: #aa4a44!important; color: #373655!important;border: 1px solid #373655!important;}
+.yellow_button{background-color: #bba14f; color: #2a2f23;font-size: 25px;border: 0;margin: 2%;padding-left: 3%;padding-right: 3%;font-weight: bold;width: 40%;}
+.yellow_button:hover {background-color:#2a2f23 !important; color: #bba14f!important;border: 1px solid #bba14f!important;}
+
+.form{color: #aa4a44;border: solid #aa4a44;}
+.green_form{color: #bba14f;border: solid #bba14f;}
+.socials{color: #aa4a44;margin: 2px;}
+image {max-width: 80%; height: auto; border-radius: 10px;}
+
+video{margin: 2px; max-width: 100%; width: 800px; height: auto; }
+
+.img3{width: 110%;height: 530px; object-fit: cover;}
+.team-member img {width: 100%; height: 500px; object-fit: cover; border-radius: 10px;}
+a{font-weight: bold;text-decoration:underline #bba14f;color: #bba14f;}
+
+.dean_img{margin: 1%;width:auto; height: 520px; object-fit: cover;} /* portret 2square 3pejzaz */
+.dean_img2{margin: 1%;width: auto; height: 400px; object-fit: cover;}
+.dean_img3{margin: 1%;width: 102%; height: auto; object-fit: cover;}
+/* portret 2pejzaz */
+.antea_img{margin: 1%;width: 99%; height: 520px; object-fit: cover;}
+.antea_img2{margin: 3%;width: 101%; height: 305px; object-fit: cover;}
