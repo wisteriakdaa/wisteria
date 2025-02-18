@@ -29,7 +29,7 @@ header{background-color: #aa4a44; text-size-adjust: 30px;}
 
 .form{color: #aa4a44;border: solid #aa4a44;}
 .green_form{color: #bba14f;border: solid #bba14f;}
-.socials{color: #aa4a44;margin: 2px;}
+.socials{color: #aa4a44;margin: 2px;width: 100px;}
 image {max-width: 80%; height: auto; border-radius: 10px;}
 
 video{margin: 2px; max-width: 100%; width: 800px; height: auto; }
